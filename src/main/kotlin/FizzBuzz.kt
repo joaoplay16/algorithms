@@ -15,5 +15,5 @@ fun main() {
             else if (number %  5 == 0) "Buzz" else "$number"
         }
     }
-    fizzBuzz(15)
+    print(fizzBuzz(15))
 }
